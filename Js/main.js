@@ -45,7 +45,7 @@ const time=document.getElementById("time"),
             
         }else if(hour < 18){
             //Afternoon
-            document.body.style.backgroundImage="url('../img/afternoon.jpeg')";
+            document.body.style.backgroundImage="url('../img/Afternoon.jpeg')";
             greetings.textContent="Good Afternoon";
             document.body.style.color='Blue';
         }else{
